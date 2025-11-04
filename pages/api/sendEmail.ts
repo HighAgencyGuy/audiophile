@@ -23,7 +23,7 @@ try {
 
    // Define the email
     const mailOptions = {
-      from: "wisdompaul20@gmail.com",
+      from: "thehaegency@gmail.com",
       to: email, // send to user
       subject: "Order Confirmation - Audiophile",
       text: `Hello ${name}, thank you for your order! Your total is $${total}.`,
